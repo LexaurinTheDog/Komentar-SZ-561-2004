@@ -213,7 +213,7 @@ Jednotná zkouška se podle § 60g odst. 3 skládá z písemného testu z **čes
 
 ### § 60a–60c — Přihláška a její podání
 
-> **§ 60a — Přihláška**
+> **§ 60a**
 >
 > *(1) Pro první kolo přijímacího řízení může uchazeč podat přihlášku nejvýše do 3 oborů středního vzdělání bez talentové zkoušky a do 2 oborů středního vzdělání s talentovou zkouškou.*
 >
@@ -221,11 +221,21 @@ Jednotná zkouška se podle § 60g odst. 3 skládá z písemného testu z **čes
 >
 > *(3) Přihlášku je možné podat*
 >
-> *- a) prostřednictvím informačního systému o přijímacím řízení na základě prokázání totožnosti s využitím prostředku pro elektronickou identifikaci [...]*
+> *- a) prostřednictvím informačního systému o přijímacím řízení na základě prokázání totožnosti s využitím prostředku pro elektronickou identifikaci*
+>
+> *- 1. zletilého uchazeče,*
+>
+> *- 2. zákonného zástupce nezletilého uchazeče, nebo*
+>
+> *- 3. osoby podle odstavce 2 věty poslední, nebo*
 >
 > *- b) na tiskopisu, který stanoví ministerstvo a zveřejní jej způsobem umožňujícím dálkový přístup.*
 >
-> *[odst. 4–6 — čestné prohlášení, kopie dokladů, překlady]*
+> *(4) Součástí přihlášky podané zákonným zástupcem nebo osobou podle odstavce 2 věty třetí je čestné prohlášení podávající osoby, že nezletilý uchazeč souhlasí s jejím podáním a obsahem.*
+>
+> *(5) Součástí přihlášky jsou kopie dokladů stanovených prováděcím právním předpisem, včetně kopie posudku o splnění podmínek zdravotní způsobilosti uchazeče pro daný obor středního vzdělání, pokud je stanovena nařízením vlády upravujícím soustavu oborů vzdělání. Ředitel školy může účastníka řízení vyzvat k předložení originálu nebo úředně ověřené kopie dokladu a účastník řízení je povinen daný doklad předložit, jinak se skutečnost považuje za neprokázanou.*
+>
+> *(6) Překlad dokladu vyhotoveného v cizím jazyce nemusí být úředně ověřený. Ředitel školy může účastníka řízení v případě pochybností o správnosti překladu vyzvat k předložení úředně ověřeného překladu a účastník řízení je povinen daný doklad předložit, jinak se skutečnost doložená přeloženým dokladem považuje za neprokázanou.*
 
 **Výklad:**
 
@@ -498,13 +508,15 @@ Pro přijímací řízení do nižšího stupně víceletého gymnázia se postu
 
 > **§ 65**
 >
-> *(1) Vzdělávání ve střední škole se člení na teoretické a praktické vyučování a výchovu mimo vyučování, praktické vyučování se člení na odborný výcvik, cvičení, učební praxi a odbornou nebo uměleckou praxi a sportovní přípravu, a to podle jednotlivých oborů vzdělání. [...]*
+> *(1) Vzdělávání ve střední škole se člení na teoretické a praktické vyučování a výchovu mimo vyučování, praktické vyučování se člení na odborný výcvik, cvičení, učební praxi a odbornou nebo uměleckou praxi a sportovní přípravu, a to podle jednotlivých oborů vzdělání. Odborná nebo umělecká praxe a sportovní příprava může být uskutečňována i v období školních prázdnin po dobu stanovenou rámcovým vzdělávacím programem.*
 >
 > *(2) Praktické vyučování se uskutečňuje ve školách a školských zařízeních nebo na pracovištích osoby, která má oprávnění k činnosti související s daným oborem vzdělání a uzavřela se školou smlouvu o obsahu a rozsahu praktického vyučování a podmínkách pro jeho konání, nebo u poskytovatelů duálního praktického vyučování.*
 >
 > *(3) Na žáky se při praktickém vyučování vztahují ustanovení zákoníku práce, která upravují pracovní dobu, bezpečnost a ochranu zdraví při práci, péči o zaměstnance a pracovní podmínky žen a mladistvých, a další předpisy o bezpečnosti a ochraně zdraví při práci.*
 >
 > *(4) Podmínka věku nebo plné svéprávnosti se pro výkon činnosti při praktickém vyučování neuplatní, pokud škola zajistí, že je činnost vykonávána pod přímým dohledem instruktora na pracovišti právnických nebo fyzických osob, kde žáci vykonávají praktické vyučování, nebo učitele. Ustanovení § 29 odst. 4 a 5 nejsou dotčena.*
+>
+> *Duální praktické vyučování*
 
 **Výklad:**
 
@@ -1038,7 +1050,25 @@ Musí splňovat:
 
 ### § 80b — Informace veřejně nepřístupné
 
-> **§ 80b odst. 1:** „Zadání zkoušky společné části maturitní zkoušky [...] je informací veřejně nepřístupnou od okamžiku, kdy je ministerstvo nebo jím zřízená a pověřená právnická osoba za takovou informaci označí, až do okamžiku, kdy je postupem stanoveným tímto zákonem zveřejněno."
+> **§ 80b**
+>
+> (1) Zadání zkoušky společné části maturitní zkoušky a jednotlivé zkoušky podle § 113 odst. 2 písm. a), jakož i jeho jakákoli část, je informací veřejně nepřístupnou od okamžiku, kdy je ministerstvo nebo jím zřízená a pověřená právnická osoba za takovou informaci označí, až do okamžiku, kdy je postupem stanoveným tímto zákonem zveřejněno.
+>
+> (2) Ministerstvo nebo jím zřízená a pověřená právnická osoba dále může způsobem stanoveným prováděcím právním předpisem označit jako veřejně nepřístupné
+>
+> - a) informace o opatřeních přijatých k zajištění ochrany informací veřejně nepřístupných podle odstavce 1,
+>
+> - b) informace o způsobu přípravy a výběru zadání zkoušek společné části maturitní zkoušky a jednotlivé zkoušky podle § 113 odst. 2 písm. a), a to nejvýše do posledního dne příslušného zkušebního období,
+>
+> - c) informace o procesech zajišťujících uložení a nakládání s informacemi veřejně nepřístupnými, nebo
+>
+> - d) informace o tom, které osoby jsou oprávněné seznamovat se s informacemi veřejně nepřístupnými, které osoby vytvářejí a provádějí opatření k zajištění ochrany informací veřejně nepřístupných, podílejí se na přípravě zadání zkoušek společné části maturitní zkoušky a jednotlivé zkoušky podle § 113 odst. 2 písm. a) nebo zajišťují nakládání s informacemi veřejně nepřístupnými, a to nejvýše do posledního dne příslušného zkušebního období.
+>
+> (3) Ministerstvo nebo jím zřízená a pověřená právnická osoba přijímá opatření nezbytná k tomu, aby informace označené jako veřejně nepřístupné byly zpřístupněny výhradně osobám, které jsou oprávněny se s nimi seznamovat.
+>
+> (4) Každý, kdo přijde do styku s informacemi veřejně nepřístupnými, je povinen zachovat mlčenlivost o těchto informacích a neumožnit přístup k těmto informacím neoprávněným osobám.
+>
+> (5) Povinnosti mlčenlivosti může zaměstnance ministerstvem zřízené a pověřené právnické osoby zprostit její statutární orgán. Povinnosti mlčenlivosti může statutární orgán ministerstvem zřízené a pověřené právnické osoby a další fyzické osoby zprostit ministr školství, mládeže a tělovýchovy.
 
 #### Čtyři kategorie veřejně nepřístupných informací
 
