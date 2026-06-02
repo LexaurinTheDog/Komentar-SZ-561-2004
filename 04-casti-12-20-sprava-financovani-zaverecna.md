@@ -1389,6 +1389,11 @@ Tato dichotomie má praktické důsledky: jako správní orgán je ředitel váz
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 854/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/978D677E9AB1932AC1257A4E0069AF20?openDocument) — 15. 4. 2008, kat. A
+  > „V řízení o neplatnost odvolání zaměstnance z funkce, který byl do funkce jmenován podle zvláštních předpisů (tzv. vnější jmenování), jsou pasivně věcně legitimováni vedle sebe zaměstnavatel i subjekt, který zaměstnance odvolal z funkce"
+
 #### Konkursní princip (odst. 1–2)
 
 **Konkursní řízení** je **obligatorní cestou** ke jmenování ředitele školy zřízené veřejným zřizovatelem (MŠMT, kraj, obec, svazek obcí). Pravidla konkursu stanoví **vyhláška č. 54/2005 Sb.**, o náležitostech konkursního řízení a konkursních komisích (prováděcí předpis k odst. 7). Konkursní komise je jmenována zřizovatelem; jejím povinným členem je:
@@ -2892,6 +2897,4 @@ Tento podpis pod jedním z nejdůležitějších zákonů éry pravicovo-levicov
 Vazba na **zákon č. 563/2004 Sb. o pedagogických pracovnících** (paralelně přijatý) tvoří souhrnný regulační rámec pro **personální stránku** vzdělávací soustavy — kvalifikační předpoklady, kariérní systém (od novely 2023 s adaptačním obdobím a uvádějícím učitelem), platové podmínky.
 
 Aktuální podoba ŠZ je výsledkem více než **80 novel** od roku 2004 — k nejvýznamnějším patří: zákon č. 472/2011 Sb. (šestiletky ředitelů), zákon č. 82/2015 Sb. (inkluze), zákon č. 178/2016 Sb. (povinné předškolní vzdělávání + minimální velikost obecních škol), zákon č. 101/2017 Sb. (reforma financování PHmax), zákon č. 349/2020 Sb. (distanční výuka, krizová OOP), zákon č. 17/2022 Sb. (130 % průměrné mzdy), zákon č. 67/2022 Sb. (válka na Ukrajině — vzdělávání uprchlíků), zákon č. 195/2022 Sb. (školní psychologové). ŠZ tak prošel **kontinuálním vývojem** reagujícím na hlavní výzvy českého školství — od profesionalizace učitelské profese přes inkluzivní vzdělávání až po pandemickou a uprchlickou krizi.
-
-
 
