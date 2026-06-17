@@ -82,6 +82,13 @@ Slovní spojení „**a některé jiné vzdělávání**" otevírá zákon pro u
 
 § 2 je **interpretační páteří** celého školského zákona. Katalog zásad v odst. 1 a katalog obecných cílů v odst. 2 nejsou pouhými programovými proklamacemi, nýbrž **normativními výkladovými vodítky** pro aplikaci všech ostatních ustanovení (a pro tvorbu i posuzování RVP a ŠVP — § 4 odst. 1 in fine).
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 2121/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2121-14_1) — nález, 30. 9. 2014
+  > „Proto také je vzdělávací systém koncipován tak, že je nejprve preferován zájem na co nejširším vzdělávání, a teprve ve vyšším věku dochází k postupné specializaci [k vymezení cílů vzdělávání viz také § 2 zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění pozdějších předpisů]"
+- *NSS* [2 Aps 3/2010 - 112](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/621318) — 5. 5. 2011
+  > „To plyne nejen z jazykového výkladu výrazu „vzdělání“, který je nutno vnímat jako souhrn znalostí a dovedností získávaných v průběhu procesu vzdělávání [§ 2 odst. 2 písm. b) zákona č. 561/2004 Sb., …], tak i z koncepce školského zákona, který vzdělávací proces od souvisejících školských služeb odlišuje"
+
 #### Zásada rovného přístupu (odst. 1 písm. a) — antidiskriminační klauzule
 
 Zásada rovného přístupu konkretizuje **čl. 3 odst. 1 LZPS** (zákaz diskriminace) a **čl. 33 odst. 1 LZPS** (právo na vzdělání) ve školské oblasti. Katalog zakázaných diskriminačních důvodů je věcně koextenzivní s § 2 odst. 3 antidiskriminačního zákona (zákon č. 198/2009 Sb.), který se ve školství aplikuje paralelně. Tři rysy zásadové formulace stojí za zdůraznění:
@@ -720,6 +727,11 @@ Vysvědčení a další doklady vydávané školou s menšinovým vyučovacím j
 > *Vzdělávání dětí, žáků a studentů se speciálními vzdělávacími potřebami a dětí, žáků a studentů nadaných*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 As 65/2015 - 52](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/638341) — 21. 4. 2016
+  > „Z čl. 16 odst. 3 Listiny základních práv a svobod vyplývá nárok na výuku nepovinného předmětu náboženství, jemuž odpovídá povinnost školy zakotvená v § 15 odst. 2 školského zákona vyučovat náboženství jako nepovinný předmět, pokud se k němu přihlásí ve školním roce alespoň sedm žáků školy. K výuce nepovinného předmětu náboženství je ovšem zapotřebí nejen minimální počet žáků, ale i vyučující splňující podle § 15 odst. 3 školského zákona odbornou kvalifikaci a souhlas příslušné církve, jejíž náboženství má být vyučováno"
 
 #### Náboženství jako nepovinný předmět ve veřejných školách
 

@@ -822,6 +822,11 @@ Doklady o vlastnictví, stanovisku stavebního úřadu a o řediteli mohou být 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 A 10/2024 - 80](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/741504) — 19. 3. 2025
+  > „Kapacitní důvody jsou legitimním kritériem regulace vzdělávací soustavy, Ministerstvo školství, mládeže a tělovýchovy však nemůže odepřít soukromé základní škole zápis do rejstříku škol a školských zařízení [§ 148 odst. 3 písm. a) zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání] jen proto, že jsou kapacity stávajících státních škol v blízkém okruhu od místa vzniku zamýšlené školy dostatečné k přijetí dalších žáků. Nevezme-li ministerstvo v úvahu také kvalitativní aspekty, jsou-li z okolností věci myslitelné, porušuje čl. 33 odst. 3 Listiny a čl. 2 Protokolu č. 1 k Úmluvě …"
+
 #### Trojí důvod zamítnutí
 
 Ustanovení obsahuje **kombinaci formálních a materiálních důvodů** zamítnutí:
@@ -1309,6 +1314,11 @@ Krajský úřad má **povinnost** tyto prostředky právnickým osobám poskytno
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [29 A 3/2011 - 44](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/561561) — 24. 2. 2012
+  > „Právo na přístup ke školnímu stravování je veřejným subjektivním právem, o němž přísluší rozhodnout řediteli školy nebo školského zařízení dle § 164 odst. 1 písm. a) zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon)"
+
 #### Generální klauzule (písm. a)
 
 Klíčová **generální klauzule**: ředitel rozhoduje ve **všech záležitostech** týkajících se poskytování vzdělávání a školských služeb, **pokud zákon nestanoví jinak**. Tato klauzule zakládá **presumpci pravomoci ředitele** — všechny dílčí kompetence (od přijetí ke vzdělávání po hodnocení žáků) jsou jeho, pokud ŠZ nebo zvláštní zákon výslovně neurčuje jiný orgán. Ředitel tak má **pozici srovnatelnou s generálním ředitelem** v obchodní korporaci — s tím rozdílem, že u školy plní zároveň úkoly v rámci **veřejné správy** (vykonává **rozhodování o právech a povinnostech** podle § 165 odst. 2).
@@ -1391,8 +1401,10 @@ Tato dichotomie má praktické důsledky: jako správní orgán je ředitel váz
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 854/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/978D677E9AB1932AC1257A4E0069AF20?openDocument) — 15. 4. 2008, kat. A
+- *NS* [21 Cdo 854/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/978D677E9AB1932AC1257A4E0069AF20?openDocument) — kat. A, 15. 4. 2008
   > „V řízení o neplatnost odvolání zaměstnance z funkce, který byl do funkce jmenován podle zvláštních předpisů (tzv. vnější jmenování), jsou pasivně věcně legitimováni vedle sebe zaměstnavatel i subjekt, který zaměstnance odvolal z funkce"
+- *ÚS* [I.ÚS 1925/07](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1925-07_2) — usnesení, 2. 10. 2007
+  > „Ač školská právnická osoba má pochopitelně právní subjektivitu (§ 124 odst. 1 školského zákona), vyhrazuje sám školský zákon jejím zřizovateli poměrně širokou působnost ve vztahu k ní: do výčtu oprávnění podle § 129 odst. 1 písm. d) mj. patří jmenování a odvolávání ředitele školské právnické osoby a stanovení jeho platu, popřípadě mzdy. … při odvolání ředitele školské právnické osoby vystupuje její zřizovatel nikoliv jako nositel veřejné moci, ale jako účastník pracovněprávního vztahu"
 
 #### Konkursní princip (odst. 1–2)
 

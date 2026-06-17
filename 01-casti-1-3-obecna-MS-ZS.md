@@ -736,6 +736,11 @@ Katalog práv žáků/studentů obsahuje šest položek:
 
 ### §§ 23–28 — Organizace vzdělávání ve školách
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 As 182/2014 - 34](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/635603) — 12. 8. 2015
+  > „… správním rozhodnutím mu byly uloženy povinnosti v oblasti jeho pravomoci a působnosti vymezené zákonem, (konkrétně ustanovením § 28 odst. 5 zákona č. 561/2004 Sb., školský zákon, o sdružování údajů z dokumentace škol, školských zařízení a školských matrik pro statistické a jiné účely), tedy při výkonu veřejné správy, nikoliv v oblasti práv, v nichž by byl stát právnickou osobou …"
+
 #### § 23 — Organizace škol
 
 Členění škol na organizační jednotky:
@@ -803,6 +808,11 @@ Katalog práv žáků/studentů obsahuje šest položek:
 **Školní matrika** (odst. 2) je centrální evidenční dokument školy. Obsahuje matriční údaje žáka (jméno, rodné číslo, místo pobytu, údaje o předchozím vzdělávání, údaje o průběhu vzdělávání, údaje o znevýhodnění/nadání a podpůrných opatřeních, údaje o zdravotní způsobilosti, údaje o zákonném zástupci).
 
 **Vysvědčení jako veřejná listina** (odst. 8): vysvědčení, výuční listy, osvědčení profesního specialisty a diplomy o absolutoriu jsou opatřeny **státním znakem ČR** a jsou **veřejnými listinami**. Důsledek: požívají ochrany podle občanského zákoníku (§ 567 OZ — pravost a pravdivost) a podle trestního zákoníku (§ 348 TZ — padělání a pozměnění veřejné listiny; viz [Komentář k TZ 40/2009](/home/vojtech/Komentar-TZ-40-2009/)).
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 As 182/2014 - 34](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/635603) — 12. 8. 2015
+  > „… správním rozhodnutím mu byly uloženy povinnosti v oblasti jeho pravomoci a působnosti vymezené zákonem, (konkrétně ustanovením § 28 odst. 5 zákona č. 561/2004 Sb., školský zákon, o sdružování údajů z dokumentace škol, školských zařízení a školských matrik pro statistické a jiné účely), tedy při výkonu veřejné správy, nikoliv v oblasti práv, v nichž by byl stát právnickou osobou …"
 
 #### § 28a — Informační systém vzdělávání
 
@@ -911,6 +921,11 @@ Tento institut je významný pro velké systémové projekty na podporu vzdělá
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 As 172/2017 - 32](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/646051) — 12. 4. 2018
+  > „… cílem předškolního vzdělávání je vytváření základních předpokladů pro pokračování ve vzdělávání a vyrovnávání nerovnoměrnosti vývoje dětí před vstupem do základního vzdělávání (§ 33 školského zákona)"
+
 #### Čtyři funkční dimenze předškolního vzdělávání
 
 § 33 definuje **čtyři komplementární funkce** mateřské školy:
@@ -939,6 +954,11 @@ Funkce 4 — **vyrovnávání nerovnoměrností** — má i sociopolitický rozm
 > *(3) Ředitel mateřské školy rozhoduje o přijetí dítěte do mateřské školy, popřípadě o stanovení zkušebního pobytu dítěte, jehož délka nesmí přesáhnout 3 měsíce. Do mateřské školy zřízené obcí nebo svazkem obcí se přednostně přijímají děti, které před začátkem školního roku dosáhnou nejméně třetího roku věku, pokud mají místo trvalého pobytu, v případě cizinců místo pobytu, v příslušném školském obvodu (§ 178 odst. 3 a 4) nebo jsou umístěné v tomto obvodu v dětském domově, a to do výše povoleného počtu dětí uvedeného ve školském rejstříku.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 As 172/2017 - 32](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/646051) — 12. 4. 2018
+  > „Přednostní přijímání dětí předškolního věku, které nalezlo svůj odraz v kritériu směrnice MŠ, má zákonnou oporu (§ 34 odst. 4 školského zákona) a sleduje legitimní cíl, jímž je dosažení určitých dovedností, které jsou předpokladem pro řádný výkon následné povinné školní docházky"
 
 #### Věkové vymezení (odst. 1)
 

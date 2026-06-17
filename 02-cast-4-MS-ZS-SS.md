@@ -804,6 +804,11 @@ Společný účel obou typů zkoušek: ověřit dosažení **cílů vzděláván
 
 § 73 tedy formuluje **dvojí funkční pojetí** závěrečné a maturitní zkoušky: jednak **kvalifikační** (potvrzení kvalifikace pro povolání), jednak **selektivní** (předpoklad pro vyšší vzdělávání).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 A 67/2025 - 42](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/745587) — 25. 8. 2025
+  > „Jak výslovně stanovuje § 73 školského zákona, jejím účelem je ověřit, jak žáci dosáhli cílů vzdělávání stanovených rámcovým a školním vzdělávacím programem v příslušném oboru, zejména ověřit úroveň klíčových vědomostí a dovedností žáka, které jsou důležité pro jeho další vzdělávání nebo výkon povolání nebo odborných činností. Maturitní zkouškou je tedy jednak uskutečňován „veřejný zájem na jednotném a v určité míře standardizovaném hodnocení žáků po absolvování určité etapy vzdělávacího procesu“ […], jednak úspěšné nebo neúspěšné vykonání ovlivňuje, zda bude moci žák nadále studovat na vysoké škole, nebo vykonáv…"
+
 ---
 
 ### Závěrečná zkouška (§§ 74–76)
@@ -891,6 +896,11 @@ Maturitní zkouška se od školního roku 2010/2011 (zavedení tzv. „státní 
 - **autonomií škol** (možnost zohlednit specifika oboru a ŠVP).
 
 ### § 78 — Společná část maturitní zkoušky
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 A 278/2011 - 71](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/557988) — 30. 10. 2012
+  > „S konáním každé zkoušky přitom není spojeno pouze její ohodnocení, ale zákon s konáním zkoušky spojuje také subjektivní veřejné právo studenta na to, aby daná zkouška proběhla za podmínek stanovených zákonem ( § 78 odst. 4, § 80 zákona č. 561/2004 Sb. )"
 
 #### Tři možné zkušební předměty (odst. 1)
 
@@ -990,6 +1000,11 @@ Profilová část je **veřejná** s výjimkou:
 - praktických zkoušek (z důvodu zdraví, bezpečnosti, soukromí pacientů u zdravotnických oborů).
 
 ### § 80 — Orgány zajišťující maturitní zkoušku
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 A 278/2011 - 71](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/557988) — 30. 10. 2012
+  > „S konáním každé zkoušky […] zákon […] spojuje také subjektivní veřejné právo studenta na to, aby daná zkouška proběhla za podmínek stanovených zákonem ( § 78 odst. 4, § 80 zákona č. 561/2004 Sb. ). V tomto kontextu lze v příkazu zákona dodržet podmínky maturitní zkoušky spatřovat výkon státní správy, za níž dle § 80 zákona odpovídá ministerstvo školství, které je v tomto směru orgánem zajišťujícím maturitní zkoušku ( metodické řízení průběhu spole…"
 
 #### Ministerstvo (odst. 1)
 
@@ -1191,6 +1206,11 @@ Lze nahradit **celou nebo část** zkoušky. Při nahrazení části koná žák
 **Podmínka a) se nevztahuje na cizí jazyk** — pro CJ stačí splnit jazykovou úroveň (B1 nebo vyšší podle CEFR) a organizační záruky. Toto je výrazem důvěry v zavedené mezinárodní jazykové certifikace (Cambridge English, Goethe-Zertifikat, DELF/DALF, DELE, TRKI).
 
 ### § 82 — Přezkoumání průběhu a výsledku zkoušek
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 A 282/2011 - 111](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/538830) — 24. 2. 2016
+  > „V řízení o žádosti o přezkoumání výsledku části maturitní zkoušky konané formou didaktického testu podle § 82 odst. 3 zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), je třeba podle § 180 odst. 1 správního řádu z roku 2004 aplikovat v otázkách, jejichž řešení je nezbytné, správní řád. Proti rozhodnutí o této žádosti není opravný prostředek přípustný"
 
 #### Pravomoc krajského úřadu (odst. 1)
 
