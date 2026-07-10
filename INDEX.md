@@ -26,3 +26,7 @@
 
 ## Vazba na zákon o pedagogických pracovnících
 [563/2004 Sb.](https://www.zakonyprolidi.cz/cs/2004-563) (samostatný zákon).
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
